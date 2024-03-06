@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+WYXNF0dAJ78q0VQxqi+DRoc4DX0PFvar2b5XMARGyGninW8oI9tFJEwqzs9Gl5tC7pik9RBexAPFw8W7qoGdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\disrct\\Desktop\\Search-Algorithms\\MazeAI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\disrct\\.nuget\\packages\\pamella\\1.7.0\\pamella.1.7.0.nupkg.sha512",
+    "C:\\Users\\disrct\\.nuget\\packages\\statelylib\\1.3.0\\statelylib.1.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
